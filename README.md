@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring & C++**
 
-- 👨‍💻 All of my projects are available at [www.example](www.example)
+- 👨‍💻 All of my projects are available at [https://b-d-i.github.io/Portfolio-Page/](https://b-d-i.github.io/Portfolio-Page/)
 
 
 <h3 align="left">Languages and Tools:</h3>

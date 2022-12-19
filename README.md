@@ -5,9 +5,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-D-I&hide=jupyter%20notebook&layout=compact)](https://github.com/B-D-I/github-readme-stats)
 
-- 🌱 I’m currently learning **Spring & C++**
+- 🌱 Currently learning **Spring**
 
-- 👨‍💻 All of my projects are available at [https://b-d-i.github.io/Portfolio-Page/](https://b-d-i.github.io/Portfolio-Page/)
+- 👨‍💻 All projects are available at [https://b-d-i.github.io/Portfolio-Page/](https://b-d-i.github.io/Portfolio-Page/)
 
 
 <h3 align="left">Languages and Tools:</h3>

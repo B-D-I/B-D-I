@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<!-- <h1 align="center">Hi 👋</h1> -->
 <h3 align="center">Graduate Software Engineer from Oxfordshire / Gloucestershire</h3>
 
 ![B-D-I's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-D-I&show_icons=true&theme=onedark)
@@ -7,7 +7,7 @@
 
 - 🌱 Currently learning **Spring**
 
-- 👨‍💻 All projects are available at [https://b-d-i.github.io/Portfolio-Page/](https://b-d-i.github.io/Portfolio-Page/)
+- 👨‍💻 All projects are available at <!--[https://b-d-i.github.io/Portfolio-Page/](https://b-d-i.github.io/Portfolio-Page/) -->
 
 
 <h3 align="left">Languages and Tools:</h3>

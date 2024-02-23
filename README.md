@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi 👋</h1> -->
-<h3 align="center">Graduate Software Engineer from Oxfordshire / Gloucestershire</h3>
+<!-- <h3 align="center">Software Engineer from Oxfordshire / Gloucestershire</h3> -->
 
 <!-- ![B-D-I's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-D-I&show_icons=true&theme=onedark) -->
 
